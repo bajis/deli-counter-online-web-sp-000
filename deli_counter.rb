@@ -1,5 +1,5 @@
 # Write your code here.
-def line(delete_if { |e|  })
+def line(deli)
   if deli.empty?
     puts "The line is currently empty."
   else
